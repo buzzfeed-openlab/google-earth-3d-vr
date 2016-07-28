@@ -2,7 +2,9 @@
 
 This VR experiece for the HTC Vive was built on an exported Google Earth 3D reconstruction of the Wells Fargo Center in Philadelphia, the site of the 2016 Democratic National Convention.
 
-Download and extract the .zip file to try it out.
+Download and extract the above .zip file to try it out.
+
+This video shows what the user sees inside this VR environment: https://youtu.be/eh5VC8vOqT8
 
 Watch this video to learn how to extract 3D models from Google Earth: https://youtu.be/gE1L8qYA8K8
 
